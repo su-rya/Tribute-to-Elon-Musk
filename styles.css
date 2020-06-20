@@ -1,0 +1,262 @@
+body {
+  text-align: center;
+  margin: 0;
+  color: white;
+  font-family: 'Work Sans ',sans-serif;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-family: 'Merriweather', serif;
+}
+
+h2 {
+  font-size: 1rem;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+h3{
+  font-family: 'Work Sans','italic',sans-serif;
+}
+a{
+  color:#d92027;
+  text-decoration: none;
+  margin:0 2px 0 2px;
+}
+
+a:hover{
+  color:white;
+}
+
+.top-container {
+  padding-bottom: 100px;
+}
+
+.link1 {
+  position: fixed;
+  right: 10px;
+  padding-top: 20px;
+  font-size: 20px;
+}
+
+.EM-img {
+  width: 100%;
+}
+
+.Heading {
+  position: absolute;
+  top: 240px;
+  left: 60px;
+  color: white;
+}
+
+.Q1 {
+  position: relative;
+  bottom: 250px;
+  color: white;
+}
+
+.middle-container {
+  background-color: white;
+  color: black;
+  padding-top: 150px;
+  text-align: center;
+}
+
+.EM-img2 {
+  position: absolute;
+  right: 0;
+}
+
+.Early-life {
+  width: 60%;
+  position: relative;
+  left: 60px;
+  bottom: 200px;
+  text-align: left;
+  line-height: 2;
+}
+
+.moments {
+  position: relative;
+  left: 1000px;
+  bottom:310px;
+  line-height: 2;
+}
+
+.a10 {
+  position: relative;
+  bottom: 150px;
+  padding-bottom: 50px;
+    font-family: 'Work Sans','italic',sans-serif;
+}
+
+.bottom-container {
+  position: relative;
+  bottom: 100px;
+  background-color: #d92027;
+  padding:10px 0 5px 0;
+}
+
+.Tesla {
+  width: 10%;
+  position: relative;
+  bottom: 650px;
+}
+
+.Teslacar {
+  width: 100%;
+}
+
+.middle-container1 {
+  background-color: #d92027;
+}
+
+.Aim {
+  position: relative;
+  bottom: 300px;
+}
+
+.content {
+  width: 30%;
+  line-height: 2;
+  text-align: left;
+}
+
+.About {
+  position: relative;
+  bottom: 150px;
+  margin-left: 60px
+}
+
+.Busi {
+  position: relative;
+  bottom: 300px;
+  left: 950px;
+}
+
+.Ceo {
+  position: relative;
+  left: 530px;
+  bottom: 150px;
+}
+
+.Starship {
+  width: 100%;
+}
+
+.SXlogo {
+  width: 30%;
+  position: absolute;
+  left: 50px;
+}
+
+.middle-container2 {
+  background-color: #004370;
+  padding-bottom: 250px;
+  line-height: 2;
+  text-align: left;
+  margin-right: 0;
+}
+
+.Aim1 {
+  position: relative;
+  bottom: 120px;
+  text-align: center;
+}
+
+.About1 {
+  width: 30%;
+  position: relative;
+  top: 90px;
+  left: 60px;
+}
+
+.founded {
+  width: 30%;
+  position: relative;
+  top: 250px;
+  left: 530px;
+}
+
+.Plans {
+  width: 30%;
+  position: relative;
+  left: 960px;
+  bottom: 160px;
+}
+
+.residence {
+  width: 100%;
+}
+
+.Solar-logo {
+  width: 20%;
+  position: absolute;
+  left: 610px;
+  padding-top: 100px;
+}
+
+.Aim2 {
+  position: relative;
+  bottom: 250px;
+  text-align: center;
+}
+
+.top-container2 {
+  background-color: #639a67;
+  padding-bottom: 300px;
+  margin-left: 0;
+  line-height: 2;
+  text-align: left;
+}
+
+.About2 {
+  width: 30%;
+  position: relative;
+  left: 60px;
+  top: 100px;
+}
+
+.Market {
+  width: 30%;
+  position: absolute;
+  right: 60px;
+}
+
+.Underground {
+  width: 100%;
+}
+
+.BC-logo {
+  width: 20%;
+  position: absolute;
+  left: 300px;
+  padding-top: 50px;
+}
+
+.Aim3 {
+  position: relative;
+  bottom: 160px;
+  text-align: center;
+}
+
+.top-container3 {
+  background-color: #2b2024;
+  padding-bottom: 250px;
+  text-align: left;
+  line-height: 2;
+}
+
+.About3 {
+  width: 30%;
+  position: relative;
+  left: 60px;
+  top: 130px;
+}
+
+.Goal {
+  width: 30%;
+  position: relative;
+  left: 990px;
+}
